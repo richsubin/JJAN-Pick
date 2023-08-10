@@ -3,12 +3,13 @@ JJAN순이들과 알고리즘 스터디 진행 중 필요성을 느껴서 만들
 시간이 날 때마다 아주 조금씩 수정하고 있으며, Tailwind CSS를 사용해볼 예정입니다. <br>
 <hr>
 
-## 월밤 스터디
+### 월밤 스터디
 
 매주 백준에서 문제를 4개 선정하고, 월요일 밤 10시마다 랜덤으로 각자 문제를 배정받아, 문제 해설 순서도 랜덤으로 진행합니다. <br>
 이러한 과정 중 매번 네이버 사다리타기 게임에서 입력하는 것이 귀찮아 만들게 됐습니다.
 <br>
+<img width="260" alt="image" src="https://github.com/richsubin/JJAN-Pick/assets/81276634/e8402c6d-3a96-4d60-90b3-c1b65b035b45">
+<br>
 React로 거의 3시간도 안걸려서 만들었지만 🙃<br>
 피드백은 언제나 환영입니다~<br>
-<img width="260" alt="image" src="https://github.com/richsubin/JJAN-Pick/assets/81276634/e8402c6d-3a96-4d60-90b3-c1b65b035b45">
 
